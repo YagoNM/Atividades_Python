@@ -1,5 +1,6 @@
 lista = [5, 3, 7, 12, 1]
 lista_animal = ['cachorro', 'urso' , 'elefante', 'lobo', 'gato']
+
 nova_lista = lista_animal * 3
 #print(lista_animal [1])
 #print(sum(lista))
